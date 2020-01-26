@@ -8,3 +8,5 @@
  */
 
 rootProject.name = 'spring-boot-by-example'
+
+include 'demo-rest-service'
