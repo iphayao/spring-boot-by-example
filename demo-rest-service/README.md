@@ -26,7 +26,7 @@ http://localhost:8080/greeting?name=John
 
 แล้วสร้างโปรเจคด้วยปุ่ม `Generate` จะได้เป็นไฟล์ zip โดยที่แตกไฟล์จะได้โปรเจค Spring Boot ที่พร้อมใช้งาน โดยที่ import โปรเจคที่สร้างขึ้นมาด้วย IDE (อย่างเช่น IntelliJ หรือ Eclipse เป็นต้น)  
 
-```text
+```groovy
 plugins {
 	id 'org.springframework.boot' version '2.2.4.RELEASE'
 	id 'io.spring.dependency-management' version '1.0.9.RELEASE'
