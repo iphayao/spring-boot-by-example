@@ -9,5 +9,5 @@
 
 rootProject.name = 'spring-boot-by-example'
 
-include 'demo-rest-service'
+include 'demo-greeting-service'
 include 'demo-actuator-service'
